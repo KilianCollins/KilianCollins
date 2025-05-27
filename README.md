@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KilianCollins
-- 👀 I’m interested in everything and anything In the computer science field.
-- 🌱 I’m currently learning Python, java, javascript, backend development, and terminal use.
+- 👀 I’m interested in ML and AGI's potential to interpret and assist us in reading and "writing" chemical "code" to instruct living cells. In other words, I am interested in playing god (sort of.)
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my favorite thing to do and current hobby is swimming
+- ⚡ Fun fact: one of my principal goals is to build my own smart assistant capable of interpreting and executing complex and vaguely worded tasks 
 
 <!---
 KilianCollins/KilianCollins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
